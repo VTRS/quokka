@@ -37,7 +37,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "TRS on GitHub":
-    - "//github.com/VTRS"
+    - "github.com/VTRS"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "By TRS"

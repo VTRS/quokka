@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "just-the-docs"
   spec.version       = "0.2.8"
-  spec.authors       = ["Patrick Marsceill"]
-  spec.email         = ["patrick.marsceill@gmail.com"]
+  spec.authors       = ["Victor Hugo"]
+  spec.email         = ["hugotrs97@gmail.com"]
 
   spec.summary       = %q{A modern, highly customizable, and responsive Jekyll theme for documention with built-in search.}
-  spec.homepage      = "https://github.com/pmarsceill/just-the-docs"
+  spec.homepage      = "https://vtrs.github.io/quokka/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
