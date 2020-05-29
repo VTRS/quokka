@@ -1,0 +1,43 @@
+I"M<h1 id="self-tracking">Self-Tracking</h1>
+
+<p>Self-tracking or screening tools help the application to measure the status and progress of each user. It is important to take note that even though this data is useful to make decision and generate a personalized experience in the application, no formal diagnostic should be done or presented to the user unless it is reviewed by a Mental Health professional.</p>
+
+<h2 id="validated-screening-tools">Validated Screening Tools</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Tool</th>
+      <th style="text-align: left">Measures</th>
+      <th style="text-align: left">Description</th>
+      <th style="text-align: left">Versions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">SRQ</td>
+      <td style="text-align: left">Psychological Distress</td>
+      <td style="text-align: left">The Self Reporting Questionnaire (SRQ) is a Binary self-complete questionnaire, useful to detect tendencies to a certain CMD. Validated by the WHO in cross-cultural populations, children and the elderly.</td>
+      <td style="text-align: left">SRQ-20, SRQ-24</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PHQ</td>
+      <td style="text-align: left">Depressive Symptoms</td>
+      <td style="text-align: left">The Patient Health Questionnaire (PHQ) is a scale based questionnaire used to monitor the severity of depressive symptoms. It has been validated across multiple populations including students and young adults.</td>
+      <td style="text-align: left">PHQ-9, PHQ-2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
+      <td style="text-align: left">hmm</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
+      <td style="text-align: left">yumm</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+:ET

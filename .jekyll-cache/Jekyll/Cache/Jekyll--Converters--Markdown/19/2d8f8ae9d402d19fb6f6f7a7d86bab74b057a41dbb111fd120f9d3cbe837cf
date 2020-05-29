@@ -1,0 +1,9 @@
+I"L<h1 id="open-source-tools">Open Source Tools</h1>
+
+<p>Some open source that might be useful for the development of your application.</p>
+
+<ol>
+  <li><a href="https://huggingface.co/transformers/index.html">Natural Language Generation</a></li>
+  <li><a href="https://github.com/VTRS/dexters-brain">Sentiment analysis </a></li>
+</ol>
+:ET

@@ -1,0 +1,43 @@
+I"5	<h1 id="self-tracking">Self-Tracking</h1>
+
+<p>Self-tracking or screening tools help the application to measure the status and progress of each user. It is important to take note that even though this data is useful to make decision and generate a personalized experience in the application, no formal diagnostic should be done or presented to the user unless it is reviewed by a Mental Health professional.</p>
+
+<h2 id="validated-screening-tools">Validated Screening Tools</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Tool</th>
+      <th style="text-align: left">Measures</th>
+      <th style="text-align: left">Description</th>
+      <th style="text-align: left">Versions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">SRQ</td>
+      <td style="text-align: left">Psychological Distress</td>
+      <td style="text-align: left">The Self Reporting Questionnaire (SRQ) is a Binary self-complete questionnaire, useful to detect tendencies to a certain CMD. Validated by the WHO in cross-cultural populations, children and the elderly.</td>
+      <td style="text-align: left">SRQ-20, SRQ-24</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PHQ</td>
+      <td style="text-align: left">Depressive Symptoms</td>
+      <td style="text-align: left">The Patient Health Questionnaire (PHQ) is a scale based questionnaire used to monitor the severity of depressive symptoms. It has been validated across multiple populations including students and young adults.</td>
+      <td style="text-align: left">PHQ-9, PHQ-2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">GAD</td>
+      <td style="text-align: left">Anxious Symptoms</td>
+      <td style="text-align: left">The General Anxiety Disorder questionnaire to measure the severity of anxiety symptoms and monitor progress after a proper diagnosis is made.</td>
+      <td style="text-align: left">GAD-7</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">WHO-5</td>
+      <td style="text-align: left">Mental Wellbeing</td>
+      <td style="text-align: left">The WHO-5 Wellbeing Index is a brief assessment tool to measure mental wellbeing in less. It consist of five 5-point scale based questions and it has been widely validated for people over age of 9.</td>
+      <td style="text-align: left">WHO-5</td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -1,0 +1,11 @@
+I"6<h1 id="learning">Learning</h1>
+
+<p class="fs-6 fw-300">This category contributes directly to Mental wellbeing categories like: Mental Health Literacy, Cognitive Skills and Self-Management Strategies; which are important parts of a good MH, making it a great place to start. In this category the key components that will be tackled are the interventions.
+Interventions refer to the methods or interactions implemented in the application to handle directly the issue of the user. Some recommended techniques to do so with software are</p>
+<p>##Psychoeducation</p>
+
+<p>Knowledge is a simple yet helpful to impenitent in a MH application. To do this right there are two important characteristics that should be part of the solution; reliable information and easy intuitive access to data.</p>
+
+<p>The framework will include the basic knowledge that an application should have available for users, such as description of different diagnostics, symptoms, how to recognize them and common techniques to prevent or treat them. This will be in the correspondent section of the documentation and all the data will be retrieved from official sites such as the WHO and scientific papers from Web of Science.
+The way the final user of the application should access this data must be controlled by software and not presented all at once, because that could be overwhelming, instead it is recommended that the data is presented in a strategic way according to a given algorithm. For example if a user is diagnosed by the application as depressive, instead of give the diagnostic directly, the application should show some useful information about the symptoms and treatment methods of the given disorder. This encourages the user to learn about their possible situation so when the moment comes to face their mental state they can make informed decisions.</p>
+:ET
