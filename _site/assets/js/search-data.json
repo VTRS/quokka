@@ -3,43 +3,43 @@
   "1": {
     "title": "Activities",
     "content": "Meaningful activities . The meaningful activities are the the functionalities which the user will be using the most. After an extensive research, it as found that some activities are key to ensure the success of any mental health application. Therefore Quokka has this activities categorized and with some guidelines on how to implement them. .",
-    "url": "http://localhost:4000/just-the-docs/docs/activities",
+    "url": "http://localhost:4000/home/docs/activities",
     "relUrl": "/docs/activities"
   }
   ,"2": {
     "title": "Resources",
     "content": "Open Source Tools . Some open source that might be useful for the development of your application. . Natural Language Generation | Sentiment analysis | List of Sources . T. E. Board, Global burden of mental disorders and the need for a comprehensive , coordinated response from health and social sectors at the country level, World Health, January 2012 6-9. | Coelhoso CC, Tobo PR, Lacerda SS, Lima AH, Barrichello CRC, Amaro E Jr, Kozasa EH, ”A New Mental Health Mobile App for Well-Being and Stress Reduction in Working Women: Randomized Controlled Trial”, J Med Internet Res 2019 | D. Becker, ”Acceptance of mobile mental health treatment applications”, Elsevier, 2016 | Q. Chengcheng, S. Corina, D. Claudia, D. Gavin, ”Functionality of Top-Rated Mobile Apps for Depression: Systematic Search and Evaluation”, JMIR Ment Health, 2020 | S. McManus, P. Bebbington, R. Jenkins and T. Brugha, Assets: how they work. Mental Health and Wellbeing in England: Adult, 2014. | Depression and Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017. Licence: CC BY-NC-SA 3.0 IGO. | R. Zhang, J, Nicjolas, A. A Knapp, A. K Graham, E. Gray, M. Kwasny, M. Reddy, D. Mohr, ”Clinically Meaningful Use of Mental Health Apps and its Effects on Depression: Mixed Methods Study”, JOURNAL OF MEDICAL INTERNET RESEARCH, Department of Communication Studies Northwestern University, 2019 | S. Okuboyejo, J. Meyer, ”Depression Management: A Descriptive Evaluation of Depression Apps in the Google Play Store”, TEM Journal. Volume 8, 2019 | J. King, “Measuring mental health outcomes in built environment research: Choosing the right screening assessment tools”, 2018 | B. Netsereab, M. Mehari Kifle, “Validation of the WHO self-reporting Open Access International Journal of Mental Health Systems questionnaire-20 (SRQ-20) item in primary health care settings in Eritrea “, 2018 | A. Gemma-Claire, G. Ryan, MJ. De Silva, “Validated Screening Tools for Common Mental Disorders in Low and Middle Income Countries: A Systematic Review”, 2016 | R. L. Spitzer, K. Kroenke, “A Brief Measure for Assessing Generalized Anxiety Disorder”, 2006 | V. Henkel, R. Mergl, R. Kohen, “Identifying depression in primary care: a comparison of different methods in a prospective cohort study”, 2003 |",
-    "url": "http://localhost:4000/just-the-docs/docs/extra/",
+    "url": "http://localhost:4000/home/docs/extra/",
     "relUrl": "/docs/extra/"
   }
   ,"3": {
     "title": "Goal Setting",
     "content": "Goal setting . Goals must be chosen according the specific purpose of each implementation, they could be seated by the algorithm of the application or by the user under a set of parameters stablished by the app. The important part of this element is to find ways to measure the current status of the user in order to properly design the tracking tools. .",
-    "url": "http://localhost:4000/just-the-docs/docs/Activities/goals/",
+    "url": "http://localhost:4000/home/docs/Activities/goals/",
     "relUrl": "/docs/Activities/goals/"
   }
   ,"4": {
     "title": "Home",
     "content": ". Quokka . The purpose of Quokka is to give enough tools to developers to start designing and implementing their ideas for mental health applications, with the assurance that the minimum required scientific and technical background will be covered if the standards and strategies stablished here are followed. .",
-    "url": "http://localhost:4000/just-the-docs/",
+    "url": "http://localhost:4000/home/",
     "relUrl": "/"
   }
   ,"5": {
     "title": "Learning",
     "content": "Learning . This category contributes directly to Mental wellbeing categories like: Mental Health Literacy, Cognitive Skills and Self-Management Strategies; which are important parts of a good MH, making it a great place to start. In this category the key components that will be tackled are the interventions. Interventions refer to the methods or interactions implemented in the application to handle directly the issue of the user. Some recommended techniques to do so with software are . Psychoeducation . Knowledge is a simple yet helpful to impenitent in a MH application. To do this right there are two important characteristics that should be part of the solution; reliable information and easy intuitive access to data. . Therapeutic Treatment . According to the insight gathered from the interviews, the treatment must be done supervised by a professional therapist, therefore if it is desired functionality of the given application, a psychologist must be part of the development and monitoring team. There are some techniques like cognitive behavioral therapy and mindfulness that have been proven methods that can be implemented mostly automated, but it is consider a better idea to combine them with regular therapy to ensure good results. . Professional Help . Every single MH application should have an easy access to professional help, this could go from live chatting for questions to suicide hotlines for the worst case scenarios. It is important that this is considered from the begging of the design because this apps will be dealing with complex personal problems and it is important to provide all necessary tools to ensure the user’s safety. .",
-    "url": "http://localhost:4000/just-the-docs/docs/Activities/learning/",
+    "url": "http://localhost:4000/home/docs/Activities/learning/",
     "relUrl": "/docs/Activities/learning/"
   }
   ,"6": {
     "title": "Roles",
     "content": "Roles . Depending on the application there might be more roles, but for the majority of them, there must be at leas three main ones; expert, developer and patient/user. . Experts in psychology . For any kind of software application related to mental health, it is highly recommended if not a must, that a professional of the area; being a psychologist, therapist, psychiatrist or related, is involved not just during the design process of the application, but alongside it’s usage. Since the application is intended to be used to solve delicate issues, and it is going to be dealing with human beings, it is important that people with certain level of knowledge in the area participate monitoring and intervening the it is necessary. Also for certain use cases, it is recommended that the functionality is implemented as a tool to help with regular therapy and not as a substitute. The amount of professionals and the time they will intervene in the application might be defined by each team according to the specific functionalities implemented in the application. . Developer . To have a reliable software solution the constant involvement of the development team must be assured. Their role is to preserve the integrity of the application and improve the experience of the users. The decisions regarding the implementation of any new forms of interventions should always be done side by side with the professionals involved in the project to ensure the proper implementation of any idea. . Patient/User . The final user is the real key of the system, the application must ensure their security and aim to be a helpful resource to achieve which ever the goal of the application may be. Users must have easy access to information regarding the evidence backing up the implemented functionalities of the application. In addition, they must have the power to control their privacy setting, such as if they want their data to be used for research or which information may a professional be able to see. User engagement is an important topic and intrusive ways to get it must be avoided. It is recommended to ensure future interactions by the implementation of goal settings and scheduled interventions or monitoring questionaries. .",
-    "url": "http://localhost:4000/just-the-docs/docs/roles/",
+    "url": "http://localhost:4000/home/docs/roles/",
     "relUrl": "/docs/roles/"
   }
   ,"7": {
     "title": "Self-Tracking",
     "content": "Self-Tracking . Self-tracking or screening tools help the application to measure the status and progress of each user. It is important to take note that even though this data is useful to make decision and generate a personalized experience in the application, no formal diagnostic should be done or presented to the user unless it is reviewed by a Mental Health professional. . Validated Screening Tools . Tool Measures Description Versions . SRQ | Psychological Distress | The Self Reporting Questionnaire (SRQ) is a Binary self-complete questionnaire, useful to detect tendencies to a certain CMD. Validated by the WHO in cross-cultural populations, children and the elderly. | SRQ-20, SRQ-24 | . PHQ | Depressive Symptoms | The Patient Health Questionnaire (PHQ) is a scale based questionnaire used to monitor the severity of depressive symptoms. It has been validated across multiple populations including students and young adults. | PHQ-9, PHQ-2 | . GAD | Anxious Symptoms | The General Anxiety Disorder questionnaire to measure the severity of anxiety symptoms and monitor progress after a proper diagnosis is made. | GAD-7 | . WHO-5 | Mental Wellbeing | The WHO-5 Wellbeing Index is a brief assessment tool to measure mental wellbeing in less. It consist of five 5-point scale based questions and it has been widely validated for people over age of 9. | WHO-5 | .",
-    "url": "http://localhost:4000/just-the-docs/docs/Activities/tracking/",
+    "url": "http://localhost:4000/home/docs/Activities/tracking/",
     "relUrl": "/docs/Activities/tracking/"
   }
   
