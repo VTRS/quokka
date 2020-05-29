@@ -16,7 +16,7 @@
 title: Quokka
 logo: "/assets/images/logo.png"
 description: Mental Healt Application's Framework
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vtrs.github.io/quokka" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
